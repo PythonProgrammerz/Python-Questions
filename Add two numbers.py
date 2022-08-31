@@ -1,3 +1,4 @@
+#WAP to add two numbers taken by the user
 print("Enter a number")
 a = input()
 print("Enter another number")
